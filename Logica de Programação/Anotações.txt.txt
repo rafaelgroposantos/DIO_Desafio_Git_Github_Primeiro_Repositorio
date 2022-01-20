@@ -1,0 +1,429 @@
+CURSO DE LOGICA 
+
+CONTENDO 3 DEFINIÇÕES
+
+1 - DEFINIÇÃO
+"MANEIRA RIGOROSA DE RACIOCINAR"
+
+
+2 - DEFINIÇÃO
+"O ENCADEAMENTO COERENTE DE ALGUMA COISA QUE OBEDECE A CERTAS CONVENÇÕES
+E REGRAS"
+
+3 - DEFINIÇÃO
+"ORGANIZAÇÃO E PLANEJAMENTO DAS INTRUÇÕES, EM UM ALGORTIMO, A FIM DE 
+VIABILIZAR A IMPLANTAÇÃO DE UM PROGRAMA"
+
+COLOQUE OS SEUS PENSAMENTOS EM UMA ORDEM, PARA QUE ELES FAÇAM SENNTIDOS
+E POSSAM SER EXECUTADOS.
+
+PARADIGMAS DE PROGRAMÇÃO
+
+1-PROGRAMÇÃO IMPERATIVA OU PROCEDURAL
+Os programas imperativos são seguencias de comando para o computador
+executar
+Os paradigmas que utilizam esse tipo de comando são
+* Ada 
+* Basic 
+* Fortan
+* AlGol 
+* C
+* Cobol
+* Pascal
+
+2- PROGRAMAÇÃO FUNCIONAL
+Trata a computação como uma avaliação de funçõees matematicas. 
+Evita estados ou dados mutaveis.
+* LISP
+* ML
+* Miranda
+* Scheme
+* Haskel
+
+3-PROGRAMAÇÃO LOGICA
+Baseado na utilização de sentenças logicas, utiliza a logica simbolica
+como linguagem para programção.
+* POPLER
+* QLISP
+* CONNIVER
+* PLANER
+* FRILL
+* OZ
+* MERCURY
+
+4- PROGRAMAÇÃO ORIENTADA A OBJETOS
+Programação fundamentada na composição e interação, entre unidade
+de sofware chamdas de objetos. Estes se relacionam e trocam mensagem
+entre si.
+CLASSES + METEDO + ATRIBUTO
+* PYTHON
+* C#
+* JAVA
+* RUBY
+* C++
+
+        ************ O QUE É PROGRAMAR? ************
+"ENCADEAR UMA SERIE DE INSTRUÇÕES QUE POSSA CHEGAR Á UMA SOLUÇÃO 
+DE UM PROBLEMA"
+
+INTRUÇÕES:
+
+"ORDENS DADAS AO COMPUTADOR PARA QUE EXECUTE"
+
+UMA INSTRUÇÃO ISOLADA NAO PERMITE QUE COMPUTADOR REALIZE UM PROCESSO 
+COMPLETO.
+
+NESSE CASO PRECISAMOS DAR UM CONJUNTOS DE INTRUÇÕES PARA QUE SE POSSA
+REALIZAR O PROCESSO.
+
+EXEMPLO:
+
+COMANDO PARA IMPRIMIR  UM ARQUIVO
+
+**CONJUNTO DE INSTRUÇÕES:
+
+1- ABRA O ARQUIVO "BECODE.TXT"
+2- VERIFIQUE SE A IMPRESSORA ESTÁ LIGADA E DESOCUPADA.
+3- ENVIE O ARQUIVO "BECODE.TXT" PARA IMPRESSORA IMPRIMIR.
+4- FECHE O ARQUIVO E AVISE QUE IMPRESSÃO ESTÁ FINALIZADA.,
+
+TODAS AS AÇÕES DITAS AO COMPUTADOR SÃO CHAMADAS DE INSTRUÇÕES.
+
+
+ALGORTIMO
+
+O QUE É PROGRAMAR?
+
+CONJUNTOS DE ALGORITMOS ORGNIZADOS DE UMA FORMA LOGICA EM UMA 
+LINGUAGEM ESPECIFICA PARA QUE O COMPUTADOR POSSA INTERPRETÁ-LA.
+
+CONCEITO DE ALGORITMOS:
+
+É UMA SEQUENCIA DE INTRUÇÕES PARA ATINGIR UM DETERMINADO OBJETIVO
+
+EXEMPLOS:
+
+* MANUAIS ELETRONICOS
+* RECEITAS CULINARIAS
+* REGRAS DE EXPRESSOES NUMERICAS
+
+PROCESSAMENTO DE DADOS DE UM ALGOTIMO
+
+INICIO --> ENTRADA --> PROCESSAMENTO --> SAIDA
+
+PSEUDOCODIGO
+
+CONCEITO
+
+FORMALIZAÇÃO  DO ALGORTIMO EM UMA LINGUAGEM
+
+DICAS
+
+SEJA OBJETIVO
+SE FAÇA ENTENDER
+FRASES CURTAS
+UM SÓ VERBO
+EVITAR DUPLO SENTIDO
+
+LINGUAGEM DE PROGRAMAÇÃO
+
+PORQUE 0 E 1 ?
+Essa é a forma como o computador interpreta instruções
+Os dados fornecidos ao computador são transformados em sinais eletricos
+que significam basicamente ligados e desligados
+
+0= desligados 1= ligados.
+
+chamado de sistemas binarios, sistema de numeração posicional em que
+todas entidades são representadas com base de dois numeros.
+
+Na computação um digito binario é chamado de bit e um agrupamentos
+de 8 bit equivale a 1 byte.
+
+TODA LINGUAGEM DE PROGRAMAÇÃO É CODIDICADA PARA FORMA BINARIA
+PARA QUE DESSA FORMA, O COMPUTADOR CONSIGA INTERPRETÁ-LA.
+
+PORQUE ESCREVEMOS UMA LINGUAGEM DE PROGRAMAÇÃO?
+
+ALGEBRA BOOLEANA, permite fazer operações logicas e aritméticas usando
+apenas dois digitos ou dois estados.
+
+como por exemplo:
+
+SIM ou NAO
+VERDADEIRO ou FALSO
+LIGADO ou DESLIGADOS
+1 ou 0
+
+CODIGO ASCII - AMERICAN STANDARD CODE FOR INFOMATION INTECHANGE
+Representa textos em computadores. Grande partes das codificações
+de caracteres herdaram sua base.
+
+
+
+LINGUAGEM DE PROGRAMAÇÃO
+
+REGRAS DE USO
+
+SINTAXE PARA ELAS
+
+PALAVRAS RESERVADAS
+
+EM LINGUAGEM DE PROGRAMAÇÃO DEVEMOS UTILIZAR PALAVRAS-CHAVE
+PARA DEFINIR O INICIO, O FIM E AS CONDIÇÕES
+
+ALGORTIMOS DEVEM TER CONTEXTO, LOCAL E OBJETIVO DEFINIDO.
+ISTO DEVE SER REALIZADO NA LINGUAGEM DE PROGRAMAÇÃO.
+
+JAVA 
+
+* LINGUAGEM MAIS UTILIZADA NO MUNDO
+* É UMA PLATAFORMA DE DESENVOLVIMENTO
+* UTILIZADA PARA APLICAÇÕES EM DESKTOP, CELULARES, CARTÕES, WEB,
+TELEVISORES, ETC.
+
+PHP
+
+* LINGUAGEM DE SCRIPT OPEN SOURCE
+* MUITO UTILIZADA PARA DESENVOLVIMENTO WEB
+* PODEE SER IMBUTIDA DENTRO DO CODIGO HTML
+
+C++
+
+SEÇÃO 2 VARIAVEIS, TIPOS DE DADOS DE ATRIBUIÇÕES E COMENTARIOS
+
+VARIAVEIS: são pequenas "caixas" que armazenam dados.
+
+armazenam:
+dados: numericos, sequencia de caracteres
+
+toda variavel precisa de um nome
+
+Nome = identificador
+
+Principios:
+- Deve se iniciar com caractere alfabetico;
+- Pode ser seguida por mais caracteres;
+- Não utiliza caractere especial;
+- Não utiliza espaços em branco;
+- Não utiliza palavras reservadas;
+
+Atenção com linguagem "CASE SENSITIVE"
+porque elas tratam de forma diferente, palavras Maiusculas,
+minusculas, e palavras, mescladas:
+
+Identificadores Validos:
+
+idade
+nome
+salario
+resposta
+telefone
+NOTA1
+
+Identificadores invalidos:
+
+Aniversario
+endereço
+algoritmo (palavra reservada)
+busca tabela
+bairro/cidade
+PARA (palavra reservada)
+
+VARIAVEIS são armazenadas na memoria RAM (Random Acess Memory)
+Quando o computador é desligados, estas deixam de existir!
+
+Declarar o tipo de variavel
+
+Memorian Ram: aonde se armazenam as variaveis
+Variavel: Precisa de um nome ou identificação
+Dados de variavel: Armazena só um tipo de variavel indicada
+
+Tipos de Identificadores
+
+As variaveis podem ser basicamente quatro tipos:
+
+* INTEIRO
+* CARACTERE
+* REAL
+* LOGICO
+
+INTEIRO: 
+* ESPECIFICO PARA ARMAZENAMENTO DE NUMEROS;
+* PODE SE UTILIZAR PARA CALCULOS;
+* TIPO DE VARIAVEIS QUE ARMAZENA SOMENTE NUMEROS INTEIROS;
+* PODEM SER POSITIVOS E NEGATIVOS;
+
+REAL:
+* ESPECIFICA PARA ARMAZENAMENTO DE NUMEROS;
+* PODE SER UTILIZAR PARA CALCULOS;
+* TIPO DE VARIAVEIS QUE ARMAZENA NUMEROS RACIONAIS E IRRACIONAIS;
+* PODEM SER POSITIVOS OU NEGATIVOS;
+
+CARACTERE:
+* PODE SE UTILIZADA PARA O TIPO DE ARMAZENAMENTO PARA TODOS TIPOS
+DE DADOS, CARACTERE OU NUMEROS;
+* NAO PODE SER UTILIZADA PARA CALCULOS;
+
+LOGICO:
+* ESPECIFICA PARA ARMAZENAMENTO DE DOIS VALORES: VERDADEIRO OU FALSO;
+* UTILIZADA PARA REPRESENTAR VARIAVEIS QUE APRESENTAM RESPOSTAS;
+* NAO PODE SER UTILIZADA PARA CALCULOS;
+
+EXEMPLOS DE VARIAVEIS COM SEU TIPO DECLARADO
+
+VARIAVEL : TIPO DECLARADO
+   IDADE : INTEIRO 
+   NOME  : CARACTERE
+ SALARIO : REAL
+
+VARIAVEIS COM MESMO TIPO DEVEM SER DECLARADAS NA MESMA LINHA
+
+ VARIAVEL1, VARIAVEL2 : TIPO DECLARADO
+ IDADE, NUMEROFILHOS  : INTEIRO
+
+ATRIBUIÇÃO
+É o dado atribuido a uma variavel.
+
+Represtação de atribuição 
+
+COMENTARIOS
+
+ESSA INFORMAÇÃO NÃO SERÁ PROCESSADO AO CODIGO
+
+COMENTARIOS DEVEM SER OBJETIVO E ESCLARECEDOR;
+NAO É RECOMENDADO TEXTO E FRASES LONGAS;
+PODE SER INSERIDO EM QUALQUER LUGAR DO CODIGO CONFORME A NECESSIDADE;
+
+PARA SE ANEXAR UM COMENTARIOS EXISTE UM OPERADOR PARA CADA LINGUAGEM DE
+PROGRAMAÇÃO SEGUE UNS ABAIXO:
+
+EM JAVA, PHP , C++ UTILIZA SE (//) DUAS BARRAS PARA COMENTAR UMA LINHA
+
+ENTRADAS: LEIA ESTE COMANDO LÊ VALORES DIGITADOS E ARMAZENA EM VARIAVEIS
+SINTAXE: LEIA (G1, G2, G3)
+
+SAIDAS: IMPRIME OS DADOS NA TELA DO COMPUTADOR
+SINTAXE: ESCREVA ( G1, G2, G3)
+SINTAXE: ESCREVAL (QUEBRA AS LINHAS APOS O COMANDO)
+
+COMBINAÇÃO: 
+
+CONCATENAÇÃO: UNIR DADOS LOGICOS 
+
+Seção 4 : Operadores Aritmeticos, expressoes e outras funções
+
+Expressoes aritméticas
+
+Realizado um algoritmo para exemplificar as Expressoes aritméticas
+segue abaixo:
+
+algoritmo "Expressoes_Aritmeticas"
+
+var
+a, b, c, z, t : real
+
+inicio
+
+a <- 8+4                 //soma
+b <- 5-4                //subtração 
+c <- 4.5 * 4      	   //multiplicação
+z <- 2 ^ 10           //potenciação
+t <- a + b + c * z   //expressao aritméticas
+
+escreval ("valor de 'a': ", a)
+escreval ("valor de 'b': ", b)
+escreval ("valor de 'c': ", c)
+escreval ("valor de 'z': ", z)
+escreval ("valor de 't': ", t)
+
+fimalgotimo
+
+Funções Aritmeticas:
+
+Funcoes ja implatadas na maioria das linguagem de programação
+
+tempo e flexibilidade
+
+log    (expressão)
+Raiz Q (expressao)
+quad   (expressao)
+Sen    (expressao)
+Tan    (expressao)
+exp    (base, expoente)
+
+Sixtaxe no algoritmo:
+
+algoritmo "Raiz_quadrada"
+
+var 
+
+a,  b: real
+
+inicio
+
+a <- 9
+b <- raizq(a)
+escreval ("o resultado é: ", b)
+
+fimalgotimo
+
+Operadores relacionais
+
+Operador relacional simbolo utilizado para representar as operações
+com relações entre dois objetos.
+
+
+Operador            operação
+ =               Igual a dois objetos
+<>               Diferente entre os objetos
+ >               Maior entre os objetos
+ >                <               Menor entre os objetos
+ >               =               Maior ou igual entre os objetos
+ >               <=               Menor ou igual entre dois objetos
+
+segue o algoritmo exemplificando:
+
+algoritmo "Operadores_Relacionais"
+
+var
+a: inteiro
+b: inteiro
+resultado: logico
+
+inicio
+a <- 6
+b <- 2
+resultado  <- a = b
+escreval (teste com operador relacional IGUAL A: ",a, " "" ", b, " ? ", resultado)
+
+fimalgotimo
+
+Operadores logicos
+
+São utilizado para conectar expressoes
+
+E (AND) OU(OR)  NÃO(NOT)
+
+PROPRIEDADE DOS OPERADORES
+
+1° NAO
+
+2° E
+
+3° OU
+
+SEMPRE SEGUIRÁ ESSA ORDEM CASO DESEJA MUDAR ESSA SEQUENCIA
+TEM QUE UTILIZAR OS PARENTESES.
+
+Prioridade em expressoes com varios tipos de operadores segue uma hirarquia
+
+1° Expressoes com "()" mais internos
+
+2° Funcoes aritméticas
+
+3° Operadores Aritmeticos
+
+4° Operadores Relacionais
+
+5° Operadores Logicos

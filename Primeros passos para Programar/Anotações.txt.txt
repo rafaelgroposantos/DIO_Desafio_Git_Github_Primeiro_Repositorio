@@ -1,0 +1,255 @@
+PRIMEIROS PASSOS PARA PROGRAMAR
+
+OBJETIVO:
+
+Apresentar os avanços ocorridos na area da tecnologia, e o surgimento da aréa do conhecimeto conhecida como ciencia da computação
+
+COMPUTAÇÃO
+
+porque estudar a historia da computação
+
+* compreender as dificuldades enfrentadas
+* fudamentos da computação
+* o processo de pensamento
+
+
+A ciencia é uma area de avanços cumulativos
+
+base em pesquisa anteriores > novos paradigmas
+
+hardware       ---    software
+
+
+Berço da computação
+
+pai da computação : ALAN TURING
+
+inicio da revolução
+
+algoritmo > base matematica / nocão matematica 
+
+  perfil   1912 á 1954
+  *Cambrigde
+  *matematico
+
+Maquina baseada em sistema formal
+tentou caracterizar operações computaveis
+
+Formalizou o conceito de algoritmo
+
+Maquina Turing
+
+* simbolos processados por computo
+
+simbolos > ações
+
+operações > Estado do sistema
+
+Decifrando codigos de Guerra
+
+*1940
+
+* escolas de cifras e codigo - inglaterra
+
+* 9 matematicos
+
+* Notoriedade pós guerra 
+
+*Projeto delilab
+
+codificador de voz
+
+Von newmann
+claude shannom                criaram um 
+
+INSTRUMENTOS COMPUTACIONAIS
+
+Primeira maquina > Blaise Pascal
+
+MAQUINA DE CALCULO
+
+Charles Xavier Thomas > 1820 > arithmometer > operações basicas
+
+
+Essas maquinas era computadores
+
+tinham alguns dos componentes para ser, mas não eram programaveis
+
+
+Charles Babbage
+1822 > prototico de madeira e latão
+
+1837
+Descreveu o seu trabalho
+
+conceito de software
+
+diferentes funcoes
+conjuntos mutaveis
+
+Como executar essas instruções
+
+Ada Augusta lovelace (primeira programadora)
+
+1815 - 1852
+
+Filha de poeta 
+educada por de Morgan
+
+Patrona da ciencia da computação
+
+Calculador Analitico de Babbage (museu de londres)
+
+Seculo XIX
+
+Herman Hollerith
+19 anos
+empregado da united states census office
+
+criou a empresa hollerith tabulentig machine
+
+Maquina que pudesse interpretar, classificar e realizar operações representadas pelas perfurações.
+Censo Americano  - 1880
+Encoporado junto a ele CTM mais taede conhecida por IBM
+
+
+PRIMEIROS COMPUTADORES.
+
+1938 -  KONRAD ZUSE
+
+1000 valvulas
+
+Z1
+unidades basicas
+memoria
+controladora
+dispositivo p/calculo
+
+outras versoes Z2 reles e o Z3
+
+Z3 levava 3 a 4 segundos
+5 p/ multiplicações
+
+Z4
+Não foi terminado e escondeu na  bavaria
+
+IBM - criou MARK 1
+
+modificações de instruções dinamicas
+
+Unidade de decisão - Algoritmo
+
+Memorias separadas para instruçoes e dados
+
+GUERRA MUNDIAl
+
+
+ENIAC - eletronic numeral integrator and computer
+
+formato em U
+Memorias gigantescas 80x8.5 pés
+registradores - 2 pés
+18 mil valvulas
+
+PROGRAMAVEL
+
+EDVAC - ELETRONIC DISCRETE VARIABLE AUTOMATIC COMPUTER
+PROGRAMA ARMAZENADO
+
+VON NEWMANN
+
+Colussus
+1943 > ALAN Turing 25ML CHAR/SEG
+
+ERA DOS COMPUTADORES PESSOAIS
+
+1975 POPULAR ELETRONICS 
+Apresentou o primeiro computador com chip de 8080
+
+Criação de linguagem Basic
+
+WILLIAN (BILL) GATES
+PAULL ALLEN
+CRIARAM A MICROSOFT
+
+1997 a Apple criou o apple II 4000 VENDAS
+
+1981 a IBM lancou IBM-PC (OPENSOURCE)
+
+ERAS DOS COMPUTADORES PESSOAIS
+LISA
+APPLE III
+
+CONSIDERAÇÕES SOBRE A CIENCIA DA COMPUTAÇÃO
+
+HISTORICAMENTE
+
+- ALTO CONSUMO DE RECURSOS
+- PROGRAMAS DE PROCESSAMENTOS DE DADOS
+
+
+SURGIU
+
+PROJETO DE Desennvolvimento (ENGENHARIA DE SOFTWARE)
+
+INTRODUÇÃO A LOGICA DE PROGRAMAÇÃO
+
+TECNICAS DE LOGICA DE PROGRAMAÇÃO
+
+
+TIPOLOGIA E VARIAVEIS
+
+ESTRUTURAS DE REPETIÇÃO
+
+logica é solucionar problema
+
+problema > questões > numerosas soluçoes > Proposta duvidosa > objeto de discussão
+
+logica > parte da filosofia que trata das formas do pensamentos em geral (dedução, indução, hipotese, intererecia. etc)
+
+logica > ordenação que segue convenções > organização coesa > forma como desencadeiam  > formas de raciocinio
+
+logica > é uma organização e planejamentos das instruçoes, assertivaas em um algoritmo, a fim de viabilizar a implantação de
+um programa
+
+sequencia de instruçoes
+
+falta de costume > seres humanos podem prever comportamento, computador não
+
+logica
+
+"everbody in this country should learn how to program a computer because it teaches you how to think. " Steve Jobs
+
+
+TECNICAS DE LOGICA DE PROGRAMAÇÃO
+
+tecnicas
+
+planta baixa > instruçoes coletas
+
+projeto > requisitos para construir esse projeto
+
+Planejamento > Arquitetar as diretrises para cada função.
+
+TECNICA LINEAR
+- MODELO TRADICIONAL
+- NÃO TEM VINCULO >Estrutura HIERARQUICA > PROGRAMAÇÃO DE COMPUTADORES
+
+VENDA DA MATEMATICA
+
+EXECUCÃO SEQUENCIAL MATEMATICA
+ORDENAÇÃO DE ELEMENTOS POR UMA UNICA PROPRIEDADE
+RECURSO LIMITADOS 
+UNICA DIMENSÃO
+
+MODELOS DE DESENVOLVIMENTO E RESOLUÇÃO
+
+TECNICA ESTRUTURADA
+
+Estrutura
+
+ORGANIZAÇÃO, DISPOSIÇÃO E ORDEM DOS ELEMENTOS ESSENCIAIS QUE COMPOEM UM CORPO (CONCRETO OU ABSTRATO)
+
+OBJETIVO
+
+FACILITAR > ESCRITA > ENTENDIMENTO > VALIDAÇÃO > MANUTENÇÃO DE PROGRAMAS

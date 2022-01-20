@@ -1,2 +1,11 @@
-Link para download do Git: [Git - Downloads (git-scm.com)](https://git-scm.com/downloads)
+**Resumo do curso com Anotações e as Certificações**
+
+
+
+- Estruturas de dados e Algoritmos
+- Introdução ao Git e o GitHub
+- Logica de programação
+- Pensamento Computacional
+- Primeiros Passos para programar
+- Projetos Ageis com Scrum
 

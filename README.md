@@ -1,5 +1,5 @@
 # Desafio do Projeto sobre Git/GitHub da DIO
-Repositorio criado para o Desafio de Projeto.
+Repositório criado para o Desafio de Projeto.
 
-## Links Úteis
-[Sintaxe Basic Markdown](https://www.markdownguide.org/basic-syntax/)
+## Criado uma Síntese do Curso
+[LocalizaLabs.NET Developer #2]([DIO | Codifique o seu futuro global agora](https://web.dio.me/track/localiza-net-developer-2?tab=path))

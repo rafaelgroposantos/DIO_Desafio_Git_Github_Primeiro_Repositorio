@@ -1,0 +1,270 @@
+PENSAMENTOS COMPUTACIONAL
+
+VISAO GERAL 
+
+PILARES DO PENSAMENTOS COMPUTACIONAL
+
+ESTUDOS DE CASO
+
+PENSAMENTOS COMPUTACIONAL
+INTRODUÇÃO: Refere se ao processo de pensamento envolvido na expressao
+de soluções em passos computacionais oou algoritmo que podem ser implementados
+no computador
+
+formulação e resolução de problemas 
+Sistemático e eficiente
+
+baseado em 4 pilares
+
+Decomposição -> reconhecimento de padrões -> abstração -> design de algoritmos
+
+Decomposição:
+DIVIDIR UM PROBLEMA COMPLEXO EM SUBPROBLEMAS
+
+Reconhecimento de Padrões:
+identificar padroes ou tendencias
+similaridades e diferença entre os problemas
+padrão comportamental
+
+Abstração:
+Extrapolar o conceito do problema para uma forma generalista.
+
+Design de Algoritmos
+Automatiza, definir passo a passo a solução do problema.
+
+Algoritmos consite de uma entrada, sequencia de operações, que vão gerar
+a saida para solução.
+
+Processo Continuo
+
+* Definir uma solução
+* Testar a solução
+* Aperfeiçoamento da solução encontrada
+
+Teste -> Analisa - Refina
+
+Abstração: Resolução de problemas
+Automatização: Expressão de solução
+Análise: Execução da solução e avalição
+
+Variações dos Pilares
+* Raciocínio logico
+* Refinamento
+
+Raciocínio logico -> Decomposição -> padrões -> 
+abstração -> algoritmo -> refinamento
+
+Competências
+* Pensamentos sistematicos
+* colaboração dentro da equipe
+* criatividade e design
+* Facilitador
+
+HABILIDADE COMPLEMENTARES:
+
+Raciocínio logico é uma forma de pensamento estruturado, ou racionio,
+que permite encontrar a conclusão ou determinar a resolução de um
+problema.
+
+* habilidade de treinamento
+
+Classificação
+- indução - fenômeno observado - ciências experimentais
+
+- dedução - previsões e explicações - ciências exatas  
+
+- abdução - premissa - conclusão
+
+Aperfeiçoamento:
+
+melhoramento - ato de aperfeiçoar - aprimoramento
+
+a partir de uma solução, determinar pontos de melhoras e refinamento
+
+* encontrar solução eficiente
+* otimizar processos
+* simplificar linhas de códigos
+* função bem definidas
+* processo continuo
+* presente em todas as etapas
+* maior compreensão
+* mais eficiente
+
+
+Decomposição: 
+Primeiro passo da resolução de problemas dentro do conceito de 
+pensamento computacional
+
+"Dado um problema complexo, devemos quebra-lo em problemas menores.
+Portanto, problemas mais faceis e gerenciaveis."
+
+Estratégia
+
+Processo de quebrar e determinar partes menores e gerenciaveis
+
+
+
+Decomposição 
+
+Estratégia > 
+
+Primeira parte é Análise >
+Processo de quebra e determinar partes menores e gerenciaveis
+Estudar,explorar > decompor em elementos constituintes > "Realizar exames detalhados"
+
+Segunda fase é a sintase > 
+combinar os elementos recompondo o problema original
+Processos de reconstrução > consiste em reunir elementos em um unico elemento > fundir elementos de maneira coerente
+
+As Ordem de execução de tarefas menores pode ser:
+*Sequencial > dependencia entre tarefas executadas em "FILA"
+
+*Paralelo  > tarefas podem ser executada concomitante.
+
+Não basta aplicar
+
+Desenvolver a decomposição "by youself"
+
+Como decompor?
+
+Entenda o problema 
+
+Identificar ou coletar dados > agregar os dados > funcionalidade > DECOMPOSIÇÃO
+
+EXEMPLOS:
+
+COZINHAR
+
+- IDENTIFICAR OS INGREDIENTES
+- DETERMINAR AS ESTAPADAS (SEQUENCIAL OU PARALELO)
+- EXECUTAR CADA ETAPA
+- AGREGAR OS INGREDIENTES PARA FINALIZAR (RECOMPOR COM COERENCIA)
+
+
+
+Reconhecimento de padroes
+
+*modelo base
+*estrutura invariante
+*repetição
+
+
+similaridades e diferenças
+
+ex: fotos de redes sociais
+tem metadata
+
+compreensão
+
+salvar no servidor de dados
+
+Porque determinar padroes ?
+
+forma de generelizar, com objetivo de obter resolução para problema difentes
+
+Classificação de objetos 
+
+Classes e categorias > depende do dominio e tipo de media
+
+Como que o computador reconhece padroes
+
+Com ser humano
+*Grau de similaridades
+*Grupos conhecidos x objetos desconhecidos
+
+Isso se da por Comparação.
+
+Como simular esse comportamento para o computador?
+* Representações de atributos
+* Aprendizado - conceito associado ao objetos
+* Armazenar dados
+* Regras de Decisão
+
+Abstração
+
+Generalização e abstração
+
+abstrair > observa, um ou mais elementos. Avaliando características e propriedades em separado.
+
+abstração > Processo intelectual de isolamento de um objeto da realidade.
+
+Generalizar > Tornar geral, mais amplos, extensões.
+
+Generalização // Abstração
+
+Generalização, na LOGICA, é uma operação intelectual que consiste em reunir numa classe geral, um conjunto de seres ou fenomenos similares.
+
+Abstração, Como classificar os dados?
+
+* Característica
+* Pontos essenciais
+* Generalizar x detalhar
+
+com isso conseguimos a Representações
+
+Representações de dados
+
+Característica se dividi em duas partes
+
+Pontos essencias e detalhes
+
+Para realizar um determinada aplicações focamos nos pontos essenciais isso é abstração.
+
+Conceitos baseado em abstrações
+
+listas
+arvore
+grafos
+linguagem de programação
+Redes a parte de comunicação/comunicação sincrona /
+Arquitetura paralela
+Arquiteturas sejem em servidor / em camadas / formato de estrelas / de ponto a ponto.
+
+ALGORITMOS
+
+o PRINCIPAL pilar 
+
+Computador
+- Energia
+- Trabalhador
+- Eficiente
+- Rapidez
+
+Não opera sozinho
+
+Precisa de detalhes nas sua instruções
+
+Processo de resolução de problema "step by setp" utilizando instruções
+
+As instruções vão dizer o que precisa ser feito e qual a ordem dessa execusões.
+
+E precisa ser entendido pelo Humano e pela Maquina (computador)
+
+Desenvolvimento do programar
+
+* Analise     >   Estudo e definição dos dados de entrada e saida
+* Algoritmo   >   Descreve o problema por meio de ferrramentas narrativas
+* Codificação >   O algoritmo é codificado dee acordo com a linguagem de de programação escolhida 
+
+ALGORITMOS é:
+
+Sequencia de passos com objetivo definido
+
+Execução de tarefa especificas
+
+Conjuntos de operações que resultam em uma sucessão de finita de ações
+
+Como construir um algoritmo?
+
+- compreensão do problema
+- definição dados de entrada
+- definir processametos
+- definir dados de saida
+- utilizar um metedo de construção 
+- teste e diagnostico (refinamento)
+
+construção de algoritmo
+
+Narrativa    - utilizar linguagem natural
+Fluxograma   - utilização de simbolos pré - definidos
+Pseudocódigo - Portugol - regras definidas -  passos a serem seguidos.
